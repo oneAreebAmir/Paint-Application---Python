@@ -8,7 +8,7 @@ from PIL import ImageTk, Image
 
 window = Tk()
 window.title('Paint')
-# window.iconbitmap(default='C:/Users/Owner/Documents/Visual Studio Code/Python/Project/MyPaint/pic2.ico')
+window.iconbitmap('favicon.ico')
 window.geometry('560x500')
 window.minsize(560,500)
 window.state('zoomed')
