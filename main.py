@@ -1,4 +1,8 @@
+# Author : Areeb Amir
+# Created on : 23/12/2022
+# https://www.github.com/oneAreebAmir
 
+# Important ---> This is not complete. Need to add more features.
 from tkinter import *
 from tkinter.filedialog import asksaveasfilename, askopenfilename
 from tkinter import ttk, colorchooser
